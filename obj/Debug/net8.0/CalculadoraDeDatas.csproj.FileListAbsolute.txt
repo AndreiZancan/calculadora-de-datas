@@ -26,3 +26,17 @@ G:\CalculadoraDeDatas\obj\Debug\net8.0\refint\CalculadoraDeDatas.dll
 G:\CalculadoraDeDatas\obj\Debug\net8.0\CalculadoraDeDatas.pdb
 G:\CalculadoraDeDatas\obj\Debug\net8.0\CalculadoraDeDatas.genruntimeconfig.cache
 G:\CalculadoraDeDatas\obj\Debug\net8.0\ref\CalculadoraDeDatas.dll
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\bin\Debug\net8.0\CalculadoraDeDatas.exe
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\bin\Debug\net8.0\CalculadoraDeDatas.deps.json
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\bin\Debug\net8.0\CalculadoraDeDatas.runtimeconfig.json
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\bin\Debug\net8.0\CalculadoraDeDatas.dll
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\bin\Debug\net8.0\CalculadoraDeDatas.pdb
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\obj\Debug\net8.0\CalculadoraDeDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\obj\Debug\net8.0\CalculadoraDeDatas.AssemblyInfoInputs.cache
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\obj\Debug\net8.0\CalculadoraDeDatas.AssemblyInfo.cs
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\obj\Debug\net8.0\CalculadoraDeDatas.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\obj\Debug\net8.0\CalculadoraDeDatas.dll
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\obj\Debug\net8.0\refint\CalculadoraDeDatas.dll
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\obj\Debug\net8.0\CalculadoraDeDatas.pdb
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\obj\Debug\net8.0\CalculadoraDeDatas.genruntimeconfig.cache
+C:\Users\Andrei\Documents\GitHub\CalculadoraDeDatas\obj\Debug\net8.0\ref\CalculadoraDeDatas.dll
